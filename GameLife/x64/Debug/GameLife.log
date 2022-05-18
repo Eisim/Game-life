@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\Eisim\source\repos\GameLife\GameLife\main.cpp(10,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Eisim\source\repos\GameLife\GameLife\main.cpp(29,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Eisim\source\repos\GameLife\GameLife\main.cpp(30,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Eisim\source\repos\GameLife\GameLife\main.cpp(32,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Eisim\source\repos\GameLife\GameLife\main.cpp(33,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  GameLife.vcxproj -> C:\Users\Eisim\source\repos\GameLife\x64\Debug\GameLife.exe
